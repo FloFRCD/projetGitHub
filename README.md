@@ -1,4 +1,4 @@
 # projetGitHub
-Projet GitHub pour OpenClassroomss
+Projet GitHub pour OpenClassrooms
 
 ceci est une modification
